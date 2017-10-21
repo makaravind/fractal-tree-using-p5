@@ -1,7 +1,7 @@
 # fractal-tree-using-p5
 
 **output**
-![alt text](img.png)
+![alt text](https://github.com/makaravind/fractal-tree-using-p5/img.png)
 
 **contribute by**
 forking the repo and create even more amazing patterns of trees with different shapes and colors.
